@@ -1,1 +1,1 @@
-# lucrumpath3
+# cyptocurrency-website-starter
